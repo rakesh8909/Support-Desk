@@ -1,0 +1,3 @@
+ npx create-react-app@latest frontend --template redux
+npm i concurrently //lets you run frontend and backend at once
+ npm i react-router-dom react-toastify axios react-icons react-modal
